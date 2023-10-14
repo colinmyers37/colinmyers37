@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colinmyers37&label=Profile%20views&color=0e75b6&style=flat" alt="colinmyers37" /> </p>
 
-- 🔭 I’m currently working for **LineLeader as a Jr Software Developer**
+- 🔭 I’m currently working JPMC as a Software Engineer**
 
-- 🌱 I’m currently learning **Vue.js, php, and TypeScript**
+- 🌱 I’m currently learning **Aws**
 
 - 👨‍💻 All of my projects are available at [https://colin-myers.netlify.app/](https://colin-myers.netlify.app/)
 
